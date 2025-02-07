@@ -47,3 +47,9 @@ Cross-Site Scripting (XSS) attacks are a type of injection, in which malicious s
 TOOLS/PACKAGES USED : VS CODE, PYTHON, STREAMLIT, REQUESTS, BEAUTIFULSOUP
 
 EXPECTED USER INPUT : URL OF A WEBSITE
+
+**Input**
+![Image](https://github.com/user-attachments/assets/215dc21f-da7d-49ab-8d44-15353cacf3f9)
+
+**Output**
+![Image](https://github.com/user-attachments/assets/6c612957-603c-4758-8902-9f9b17ef0004)
