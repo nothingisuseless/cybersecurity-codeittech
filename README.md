@@ -24,3 +24,10 @@ TOOLS/PACKAGES USED : VS CODE, PYTHON, STREAMLIT, HASHLIB
 SUPPORTING HASHING ALGORITHMS : MD5, SHA-1, SHA-256, SHA-512 
 
 EXPECTED USER INPUT : TEXT/FILE & EXPECTED HASH
+
+**Input**
+![Image](https://github.com/user-attachments/assets/c500da6b-c13a-4aea-a01f-6a1ae3ee76a2)
+
+
+**Output**
+![Image](https://github.com/user-attachments/assets/66adab5e-aa1b-4a21-a94d-a2cce7d74344)
