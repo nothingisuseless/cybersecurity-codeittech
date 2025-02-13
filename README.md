@@ -95,4 +95,6 @@ EXPECTED USER INPUT : IP ADDRESS OF A MACHINE
 ![Image](https://github.com/user-attachments/assets/794730ea-fd67-40b4-b260-9ec4a7cf3780)
 
 **Output**
+![Image](https://github.com/user-attachments/assets/abd76214-ea6d-43b5-87ff-ab5e4dc4c0f7)
 
+## TASK4 :  ADVANCED ENCRYPTION TOOL
