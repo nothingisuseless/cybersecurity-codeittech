@@ -13,8 +13,3 @@ This toolkit includes various penetration testing modules such as port scanning,
 3. **Web Crawler**
    - Crawls a website and extracts links from the homepage.
 
-## Usage
-```bash
-python main.py -m port_scanner -t <target_ip>
-python main.py -m brute_forcer -t <target_ip>
-python main.py -m web_crawler -t <target_url>
