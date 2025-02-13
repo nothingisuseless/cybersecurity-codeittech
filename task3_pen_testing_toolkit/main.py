@@ -35,7 +35,7 @@ def main():
             passwords = ['password1', '1234', 'letmein']  # Password list for testing
             if st.button("Start Brute Force Attack"):
                 st.write(f"Attempting brute force on {target_ip}...")
-                brute_force_ssh(target_ip, username, passwords)
+                brute_force_ssh(target_ip, username, passwords,st)
 
     # If the user selects "Web Crawler"
     elif option == "Web Crawler":
