@@ -53,3 +53,34 @@ EXPECTED USER INPUT : URL OF A WEBSITE
 
 **Output**
 ![Image](https://github.com/user-attachments/assets/6c612957-603c-4758-8902-9f9b17ef0004)
+
+## TASK3 : PENETRATION TESTING TOOLKIT
+
+**PORT SCANNER**
+A port scanner is an application designed to probe a server or host for open ports. 
+
+TOOLS/PACKAGES USED : VS CODE, PYTHON, STREAMLIT, SOCKET, CONCURRENT
+
+EXPECTED USER INPUT : IP ADDRESS OF A MACHINE TO SCAN
+
+**Input**
+![Image](https://github.com/user-attachments/assets/12269770-fba2-467c-bb4e-8d2544194890)
+
+**Output**
+![Image](https://github.com/user-attachments/assets/a5ac6cb5-eef1-4a5e-a530-a9216d83cbdb)
+
+
+**WEB CRAWLER**
+Web crawler bots, also called web spider bots, index web content for search results.
+
+TOOLS/PACKAGES USED : VS CODE, PYTHON, STREAMLIT, REQUESTS, BEAUTIFULSOUP
+
+EXPECTED USER INPUT : URL OF A WEBSITE
+
+**INPUT**
+![Image](https://github.com/user-attachments/assets/40bc2e9c-3562-41ba-9439-d76ec54f2936)
+
+**OUTPUT**
+![Image](https://github.com/user-attachments/assets/3bd1e959-a02b-4b87-8db8-5514014c6886)
+![Image](https://github.com/user-attachments/assets/5e688cb5-5f24-4339-a7be-28fbb7f5d7a8)
+
