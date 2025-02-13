@@ -77,10 +77,22 @@ TOOLS/PACKAGES USED : VS CODE, PYTHON, STREAMLIT, REQUESTS, BEAUTIFULSOUP
 
 EXPECTED USER INPUT : URL OF A WEBSITE
 
-**INPUT**
+**Input**
 ![Image](https://github.com/user-attachments/assets/40bc2e9c-3562-41ba-9439-d76ec54f2936)
 
-**OUTPUT**
+**Output**
 ![Image](https://github.com/user-attachments/assets/3bd1e959-a02b-4b87-8db8-5514014c6886)
 ![Image](https://github.com/user-attachments/assets/5e688cb5-5f24-4339-a7be-28fbb7f5d7a8)
+
+**BRUTEFORCE SSH**
+In cryptography, a brute-force attack consists of an attacker submitting many passwords or passphrases with the hope of eventually guessing correctly. The attacker systematically checks all possible passwords and passphrases until the correct one is found.
+
+TOOLS/PACKAGES USED : VS CODE, PYTHON, STREAMLIT, PARAMIKO, ITERTOOLS
+
+EXPECTED USER INPUT : IP ADDRESS OF A MACHINE
+
+**Input**
+![Image](https://github.com/user-attachments/assets/794730ea-fd67-40b4-b260-9ec4a7cf3780)
+
+**Output**
 
